@@ -1,0 +1,63 @@
+.main-head{
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+.item{
+    /*max-width: 300px;
+    min-height:300px;*/
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+}
+/* ipx->thickness solid->line */
+
+/* primary->blue
+ warning->yellow
+ danger->red
+  success->green*/
+
+.bg-primary{
+    background-color: blue;
+}
+
+.bg-warning{
+    background-color: yellow;
+}
+
+.bg-success{
+    background-color: green;
+}
+
+.item-first{
+    width: 800px;
+    height: 200px;
+}
+
+.item-second{
+    width: 50%;
+    height: 300px;
+}
+
+.row{
+    width: 800px;
+    height: 400px;
+    background-color:aquamarine;
+    border: 1px solid black;
+}
+
+.col{
+    width: 50%;
+    height: 200px;
+    background-color:blueviolet;
+    border: 1px solid black;
+}
+
+.col-2{
+    width: 50vw;
+    height: 200px;
+    background-color: rgb(2, 54, 54);
+    border: 1px solid black;
+}

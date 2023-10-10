@@ -1,0 +1,47 @@
+/*tagname|classname|id*/
+body{
+    background-color: black;
+}
+
+/*h1{
+    color: cyan;
+}*/
+
+#first{
+    color: beige;
+}
+
+#second{
+    color: bisque;
+}
+
+.item{
+    color: aquamarine;
+    text-decoration: underline ;
+    text-decoration-color:chocolate;
+}
+.item2{
+
+    color: rgb(83, 217, 21);
+    text-decoration: overline;
+}
+.item3{
+    color: cadetblue;
+}
+.item4{
+    color: darkkhaki;
+}
+.list-item li{
+    text-decoration: underline;
+}
+
+.main-head h1{
+    color: grey;
+    
+}
+.main-head h1:nth-child(1){
+    color: burlywood;
+}
+.main-head h1:nth-child(2){
+    color: crimson;
+}

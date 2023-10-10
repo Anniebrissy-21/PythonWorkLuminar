@@ -1,0 +1,89 @@
+.main{
+    background-color:black;
+    width: 100%;
+    height: 570px;
+}
+
+.row{
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.col{
+    width: 6%;
+    height: 110px;
+    background-color: aqua;
+    border: 1px solid;
+    margin-top: 100px;
+    margin-left: 0.5%;
+}
+
+.tw1{
+    background-color:grey;
+}
+.tw2{
+    background-color:rgb(126, 158, 70) ;
+}
+.tw3{
+    background-color:rgb(79, 202, 79);
+}
+.tw4{
+    background-color: rgb(127, 210, 45);
+}
+.tw5{
+    background-color: rgb(186, 197, 197);
+}
+.ts1{
+    background-color:coral;
+}
+.ts2{
+    background-color:rgb(239, 32, 74);
+}
+.ts3{
+    background-color:rgb(135, 197, 218);
+}
+.ts3{
+    background-color:rgb(112, 73, 148);
+}
+.ts4{
+    background-color: rgb(83, 19, 142);
+}
+.ts5{
+    background-color:rgb(215, 156, 156);
+}
+.ts6{
+    background-color:rgb(104, 163, 143);
+}
+.ts7{
+    background-color:gray;
+}
+.th1{
+    background-color:rgb(94, 220, 178);
+}
+.th2{
+    background-color:rgb(173, 216, 129);
+}
+.th3{
+    background-color:rgb(10, 134, 141);
+}
+.th4{
+    background-color:rgb(168, 126, 21);
+}
+.th5{
+    background-color:rgb(183, 63, 63);
+}
+.th6{
+    background-color:rgb(194, 11, 109);
+}
+.th7{
+    background-color:darkgreen;
+}
+.th8{
+    background-color:darkred;
+}
+.th9{
+    background-color: rgb(39, 6, 70);
+}

@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+}
+
+
+.box{
+    width: 30%;
+    height: 100px;
+    background-color: rgb(232, 164, 28);
+    border: 1px solid black;
+}
+
+/*main{
+    margin-left: 50%;
+    margin-top: 40px;
+}
+
+footer{
+    margin-left: 100%;
+    margin-top: 100px;
+} */
+
+.box-one{
+    margin-right: auto;
+}
+
+.box-two{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.box-three{
+    margin-left: auto;
+}
+

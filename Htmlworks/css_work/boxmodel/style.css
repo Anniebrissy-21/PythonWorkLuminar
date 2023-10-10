@@ -1,0 +1,23 @@
+
+body{
+    margin: 0;
+}
+
+.box{
+    width: 30%;
+    height: 100px;
+    background-color: blanchedalmond;
+    border: 1px solid black;
+}
+
+nav{
+    margin-left: 300px;
+    margin-top: 20px;
+    padding: 20px;
+    
+}
+
+footer{
+    margin-left: 300px;
+    margin-top: 400px;
+}
